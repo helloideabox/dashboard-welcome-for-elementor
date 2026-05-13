@@ -2,7 +2,7 @@
 Contributors: ideaboxcreations, ibachal, simrandeep
 Tags: elementor, elementor addon, elementor template, dashboard widget, dashboard
 Requires at least: 6.3
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.4
 Stable tag: 1.0.11
 
@@ -51,7 +51,7 @@ Not at all! All you need to know about Elementor.
 
 == Changelog ==
 
-= 2.0.11 - TBD =
+= 2.0.11 - May 13, 2026 =
 *	Enhancement: Tested compatibility with WordPress 7.0
 
 = 1.0.10 - February 23, 2026 =
