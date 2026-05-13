@@ -51,6 +51,9 @@ Not at all! All you need to know about Elementor.
 
 == Changelog ==
 
+= 2.0.11 - TBD =
+*	Enhancement: Tested compatibility with WordPress 7.0
+
 = 1.0.10 - February 23, 2026 =
 *	Fix: Fixed an issue CSS output
 
